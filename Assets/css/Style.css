@@ -1,7 +1,12 @@
+
+
 body {
-    background-color: #f8f9fa;
+    background-color: #e7eaec;
 }
 
+.aries {
+    background-color: aquamarine;
+}
 
 h1 {
     margin-bottom: 20px;

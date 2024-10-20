@@ -1,4 +1,4 @@
-<?php include '../layouts/header.php'; ?>
+<?php include('../layouts/header.php'); ?>
 
 <div class="container mt-5">
     <h1>Qual seu signo?</h1>
@@ -33,10 +33,10 @@ if ($data_nascimento < $data_inicio && $data_nascimento > $data_fim) {
     }
     }
     if (!$signo_encontrado) {
-    echo "<p>Não foi possível encontrar seu signo. Verifique a data informada.</p>";
+    echo "<p>Não foi possível determinar seu signo. Verifique a data informada.</p>";
     }
     ?>
     <a href="index.php" class="btn btn-secondary mt-3">Voltar</a>
     </div>
-<?php include '../layouts/footer.php'; ?>
+<?php include('../layouts/footer.php'); ?>
     

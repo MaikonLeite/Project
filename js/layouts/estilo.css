@@ -1,0 +1,51 @@
+
+
+body {
+    background-color: #71bff3;
+    margin-top: 100px;
+    margin-left: 650px;
+    background-image: url(zodiacologo.png);
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 40px;
+    background-size: 600px 550px;
+}
+
+.logo{
+    display: flex;
+    position: inherit;
+    max-width: 700;
+    height: 700;
+    
+}
+h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container_mt-5 {
+    
+    max-width: 600px;
+    height: 250px;
+    background-color: rgb(27, 3, 138);
+    border-radius: 10px;
+    padding: 10px 50px 10px 50px;
+    }
+
+.container h1 {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+.banner{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.aries{
+    background-image: url(Aries.png);
+}

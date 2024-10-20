@@ -1,6 +1,6 @@
-<?php include '../layouts/header.php'; ?>
+<?php include ("../layouts/header.php"); ?>
 
-<div class="container mt-5">
+<div class="container_mt-5">
 <h1>Descubra seu Signo</h1>
 
 
@@ -11,9 +11,9 @@
     <input type="date" class="form-control" id="data_nascimento"
     name="data_nascimento" required>
     </div>
-    <button type="submit" class="btn btn-primary">Descobrir Signo</button>
+    <button type="submit" class="btn btn-primary">Pesquisar</button>
 </form>
 
 
 </div>
-<?php include '../layouts/footer.php'; ?>
+<?php include ("../layouts/footer.php"); ?>
