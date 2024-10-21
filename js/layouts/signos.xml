@@ -9,7 +9,7 @@
     <signo>
         <signoNome>Aquário</signoNome>
         <dataInicio>21/01</dataInicio>
-        <dataFim>19/02</dataFim>
+        <dataFim>18/02</dataFim>
         <descricao>Aquário (♒) é o décimo primeiro signo astrológico do zodíaco, situado entre Capricórnio e Peixes e associado à constelação de Aquarius. Seu símbolo é o aguadeiro. Forma com Gêmeos e Libra a triplicidade dos signos do Ar. É também um dos quatro signos fixos, juntamente com Touro, Leão e Escorpião. Com pequenas variações nas datas dependendo do ano, os aquarianos e aquarianas são as pessoas nascidas entre 21 de janeiro e 18 de fevereiro.</descricao>
     </signo>
     <signo>
@@ -64,7 +64,7 @@ Libra é o único signo do zodíaco que não é representado por animal ou pesso
     </signo>
     <signo>
         <signoNome>Peixes</signoNome>
-        <dataInicio>20/02</dataInicio>
+        <dataInicio>19/02</dataInicio>
         <dataFim>20/03</dataFim>
         <descricao>Peixes ou Piscis (♓️) é o décimo segundo, e último signo astrológico do zodíaco, situado entre Aquário e Áries e associado à constelação de Pisces. Seu símbolo são dois peixes. Forma com Câncer e Escorpião a triplicidade dos signos da Água. É também um dos quatro signos mutáveis, juntamente com Gêmeos, Virgem e Sagitário. Com pequenas variações nas datas dependendo do ano, os piscianos são as pessoas nascidas entre 19 de Fevereiro e 20 de Março. </descricao>
     </signo>
