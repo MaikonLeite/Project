@@ -23,9 +23,17 @@
     <signo>
         <signoNome>Capricórnio</signoNome>
         <dataInicio>22/12</dataInicio>
+        <dataFim>31/12</dataFim>
+        <descricao>Capricórnio (♑) é o décimo signo astrológico do zodíaco, situado entre Sagitário e Aquário e associado à constelação de Capricornus. Seu símbolo é uma cabra. Forma com Touro e Virgem a triplicidade dos signos da Terra. É também um dos quatro signos cardinais, juntamente com Áries, Câncer e Libra. Com pequenas variações nas datas dependendo do ano, os capricornianos são as pessoas nascidas entre 22 de dezembro e 20 de janeiro. </descricao>
+    </signo>
+
+    <signo>
+        <signoNome>Capricórnio</signoNome>
+        <dataInicio>01/01</dataInicio>
         <dataFim>20/01</dataFim>
         <descricao>Capricórnio (♑) é o décimo signo astrológico do zodíaco, situado entre Sagitário e Aquário e associado à constelação de Capricornus. Seu símbolo é uma cabra. Forma com Touro e Virgem a triplicidade dos signos da Terra. É também um dos quatro signos cardinais, juntamente com Áries, Câncer e Libra. Com pequenas variações nas datas dependendo do ano, os capricornianos são as pessoas nascidas entre 22 de dezembro e 20 de janeiro. </descricao>
     </signo>
+
     <signo>
         <signoNome>Escorpião</signoNome>
         <dataInicio>23/10</dataInicio>
