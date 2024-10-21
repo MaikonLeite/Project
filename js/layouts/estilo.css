@@ -36,7 +36,8 @@ h1 {
 }
 
 .form-label {
-    color: white;
+    color: rgb(34, 5, 136);
+    font-weight: bold;
 }
 
 .banner{
