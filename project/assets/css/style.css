@@ -1,0 +1,45 @@
+body {
+    background-color: #71bff3;
+    margin-top: 100px;
+    margin-left: 650px;
+    background-image: url(../imgs/zodiacologo.png); /* Caminho ajustado */
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 40px;
+    background-size: 600px 550px;
+}
+
+.logo {
+    display: flex;
+    position: inherit;
+    max-width: 700px; /* Adicionado 'px' */
+    height: 700px;    /* Adicionado 'px' */
+}
+
+h1 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 10px 50px;
+}
+
+.container h1 {
+    color: white;
+}
+
+.form-label {
+    color: rgb(34, 5, 136);
+    font-weight: bold;
+}
+
+.banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
